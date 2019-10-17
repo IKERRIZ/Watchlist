@@ -1,0 +1,4 @@
+MOVIE_API_KEY='315731d034b0272394e705fa399f5e3b'
+SECRET_KEY='75527995janluc'
+
+python3.6 manage.py server
